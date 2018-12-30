@@ -1,9 +1,8 @@
 # Count-Down-Game-Java
 
-####3rd Year Final Project - Software Engineering
-
-####NSBM Green University
-####University College Dublin Ireland
+3rd Year Final Project - Software Engineering<br>
+NSBM Green University<br>
+University College Dublin Ireland
 
 
 How to setup this game
