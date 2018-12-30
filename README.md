@@ -3,7 +3,6 @@
 3rd Year Final Project - Software Engineering
 
 NSBM Green University
-
 University College Dublin Ireland
 
 How to setup this game
